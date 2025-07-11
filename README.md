@@ -5,9 +5,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm passionate about DevOps, Cloud, and Infrastructure.  
-🏃‍♂️ Always learning and building automation tools.  
-💬 Ask me anything – I’ll be happy to help and share knowledge.  
+- 🎓 I'm passionate about **DevOps**, **Cloud**, and **Infrastructure**.  
+- 🏃‍♂️ Always learning and building automation tools.  
+- 💬 Ask me anything – I’ll be happy to help and share knowledge.  
 
 ---
 
