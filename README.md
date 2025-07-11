@@ -27,7 +27,7 @@
 -  **CI/CD:** Jenkins, GitHub Actions, Azure Pipelines
 -  **Scripting:** Bash, PowerShell
 -  **Version Control:** Git, GitHub, Azure Repos
-
+-  **Monitoring:** Prometheus, Grafana
 ---
 
 ## 📫 Contact Me
