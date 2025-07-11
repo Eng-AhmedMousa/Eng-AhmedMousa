@@ -21,12 +21,12 @@
 
 ## 🛠️ Skills
 
-- ☁️ **Cloud Platforms:** AWS , Azure
-- 🧱 **IaC & Configuration:**  Terraform, Ansible
-- 🐳 **Containers & Orchestration:**  Docker, Kubernetes
-- ⚙️ **CI/CD:** Jenkins, GitHub Actions, Azure Pipelines
-- 🐧 **Scripting:** Bash, PowerShell
-- 🔐 **Version Control:** Git, GitHub, Azure Repos
+-  **Cloud Platforms:** AWS , Azure
+-  **IaC & Configuration:**  Terraform, Ansible
+-  **Containers & Orchestration:**  Docker, Kubernetes
+-  **CI/CD:** Jenkins, GitHub Actions, Azure Pipelines
+-  **Scripting:** Bash, PowerShell
+-  **Version Control:** Git, GitHub, Azure Repos
 
 ---
 
