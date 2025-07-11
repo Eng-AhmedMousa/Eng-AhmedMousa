@@ -1,5 +1,5 @@
 #  Hi, I'm Ahmed Mousa!
-#  DevOps Engineer 
+DevOps Engineer 
 
 ---
 
@@ -33,7 +33,7 @@
 ## 📫 Contact
 
 - 📧 Eng.ahmedhmousa@gmail.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/devopsahmed)  
-- 💻 [GitHub](https://github.com/Eng-AhmedMousa)
+- 🔗 www.linkedin.com/in/devopsahmed
+- 💻 (https://github.com/Eng-AhmedMousa)
 
 ---
