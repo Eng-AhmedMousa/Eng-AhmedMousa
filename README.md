@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ahmed Mousa! <br><a href="#">DevOps Engineer</a></h1>
+<h2>Hi, I'm Ahmed Mousa! <br><a href="#">DevOps Engineer</a></h2>
 
 
 ### About Me
@@ -8,7 +8,7 @@
 - 💬 Ask me anything – I’ll be happy to help and share knowledge.  
 
 
-## 📦 **AI-OPS Organization**  
+### 📦 **AI-OPS Organization**  
 - 🧾 [eshoponweb](https://github.com/Eng-AhmedMousa/eshoponweb)
 - 🧠 [cloud-fundamentals](https://github.com/Eng-AhmedMousa/cloud-fundamentals)
 
