@@ -14,8 +14,8 @@
 
 
 # 📦 **AI-OPS Organization**  
-- 🛍️ [eshoponweb](https://github.com/Eng-AhmedMousa/eshoponweb)
-- ☁️ [cloud-fundamentals](https://github.com/Eng-AhmedMousa/cloud-fundamentals)
+- 🧾 [eshoponweb](https://github.com/Eng-AhmedMousa/eshoponweb)
+- 🧠 [cloud-fundamentals](https://github.com/Eng-AhmedMousa/cloud-fundamentals)
 
 ---
 
