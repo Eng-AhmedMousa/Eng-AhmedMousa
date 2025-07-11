@@ -1,6 +1,5 @@
 #  Hi, I'm Ahmed Mousa!
-
-🎯 DevOps Engineer 
+#  DevOps Engineer 
 
 ---
 
@@ -12,9 +11,9 @@
 
 ---
 
-## 🧰 Projects
 
-📦 **AI-OPS Organization**  
+
+# 📦 **AI-OPS Organization**  
 - 🛍️ `eshoponweb` — Automated deployment using Terraform, Ansible, Jenkins  
 - ☁️ `cloud-fundamentals` — Practice projects covering core AWS and DevOps concepts  
 
