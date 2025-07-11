@@ -1,5 +1,5 @@
 #  Hi, I'm Ahmed Mousa!
-DevOps Engineer 
+# ![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-blue) 
 
 ---
 
@@ -21,19 +21,20 @@ DevOps Engineer
 
 ## 🛠️ Skills
 
-- ☁️ **Cloud Platforms:** AWS (EC2, S3, IAM), basic Azure
-- 🧱 **IaC:** Terraform (modular & multi-environment), Ansible
-- 🐳 **Containers:** Docker (image building, Dockerfiles)
-- ⚙️ **CI/CD:** Jenkins, GitHub Actions (basic pipelines)
-- 🐧 **Linux:** Ubuntu-based automation, shell scripting
-- 🔐 **Version Control:** Git, GitHub workflows
+- ☁️ **Cloud Platforms:** AWS , Azure
+- 🧱 **IaC & Configuration:**  Terraform, Ansible
+- 🐳 **Containers & Orchestration:**  Docker, Kubernetes
+- ⚙️ **CI/CD:** Jenkins, GitHub Actions, Azure Pipelines
+- 🐧 **Scripting:** Bash, PowerShell
+- 🔐 **Version Control:** Git, GitHub, Azure Repos
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- 📧 Eng.ahmedhmousa@gmail.com  
-- 🔗 www.linkedin.com/in/devopsahmed
-- 💻 (https://github.com/Eng-AhmedMousa)
+📧 Email: [eng.ahmedhmousa@gmail.com](mailto:eng.ahmedhmousa@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/devopsahmed](https://www.linkedin.com/in/devopsahmed)  
+💻 GitHub: [github.com/Eng-AhmedMousa](https://github.com/Eng-AhmedMousa)
+
 
 ---
