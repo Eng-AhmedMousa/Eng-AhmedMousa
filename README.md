@@ -8,8 +8,8 @@
 
 
 ### 📦 **[AiOpsVision](https://github.com/AiOpsVision) Organization**  
-- 🧾 [eshoponweb](https://github.com/Eng-AhmedMousa/eshoponweb)
-- 🧠 [cloud-fundamentals](https://github.com/AiOpsVision/cloud-fundamentals/)
+- 🧾 [eShopOnWeb](https://github.com/Eng-AhmedMousa/eshoponweb)
+- 🧠 [Cloud-Fundamentals](https://github.com/AiOpsVision/cloud-fundamentals/)
 
 
 ### 🛠️ Skills
