@@ -14,8 +14,8 @@
 
 
 # 📦 **AI-OPS Organization**  
-- 🛍️ `eshoponweb` — Automated deployment using Terraform, Ansible, Jenkins  
-- ☁️ `cloud-fundamentals` — Practice projects covering core AWS and DevOps concepts  
+- 🛍️ [**`eshoponweb`**](https://github.com/Eng-AhmedMousa/eshoponweb) — Automated deployment using Terraform, Ansible, Jenkins  
+- ☁️ [**`cloud-fundamentals`**](https://github.com/Eng-AhmedMousa/eshoponweb) — Practice projects covering core AWS and DevOps concepts  
 
 ---
 
