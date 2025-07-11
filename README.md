@@ -8,15 +8,11 @@
 - 🏃‍♂️ Always learning and building automation tools.  
 - 💬 Ask me anything – I’ll be happy to help and share knowledge.  
 
----
-
-
 
 # 📦 **AI-OPS Organization**  
 - 🧾 [eshoponweb](https://github.com/Eng-AhmedMousa/eshoponweb)
 - 🧠 [cloud-fundamentals](https://github.com/Eng-AhmedMousa/cloud-fundamentals)
 
----
 
 ## 🛠️ Skills
 
@@ -27,7 +23,6 @@
 -  **Scripting:** Bash, PowerShell
 -  **Version Control:** Git, GitHub, Azure Repos
 -  **Monitoring:** Prometheus, Grafana
----
 
 ## 📫 Contact Me
 
@@ -36,4 +31,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)](https://github.com/Eng-AhmedMousa)
 
 
----
