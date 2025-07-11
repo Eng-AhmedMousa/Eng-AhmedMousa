@@ -34,7 +34,7 @@
 ## 📫 Contact
 
 - 📧 Eng.ahmedhmousa@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 💻 [GitHub]([https://github.com/your-username](https://github.com/Eng-AhmedMousa))
+- 🔗 [LinkedIn](www.linkedin.com/in/devopsahmed)  
+- 💻 [GitHub](https://github.com/Eng-AhmedMousa)
 
 ---
