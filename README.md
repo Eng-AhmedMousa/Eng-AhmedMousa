@@ -1,5 +1,5 @@
 #  Hi, I'm Ahmed Mousa!
-# ![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-blue) 
+# [DevOps Engineer](#)
 
 ---
 
