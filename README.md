@@ -8,7 +8,7 @@
 
 
 ### 📦 **[AiOpsVision](https://github.com/AiOpsVision) Organization**  
-- 🧾 [eShopOnWeb](https://github.com/Eng-AhmedMousa/eshoponweb)
+- 🧾 [eShopOnWeb](https://github.com/AiOpsVision/eShopOnWeb)
 - 🧠 [Cloud-Fundamentals](https://github.com/AiOpsVision/cloud-fundamentals/)
 
 
